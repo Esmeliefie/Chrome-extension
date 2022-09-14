@@ -17,7 +17,7 @@ function renderLeads(){
                     ${myLeads[i]}
                 </a>
             </li>
-             `
+         `
     }
     ulEl.innerHTML = listItems
 }
